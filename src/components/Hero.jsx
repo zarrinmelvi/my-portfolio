@@ -13,7 +13,7 @@ const Hero = () => {
           I'm <span className="bg-gradient-to-r from-pink-400 to-purple-500 bg-clip-text text-transparent">Zarrin Melvi Delos Santos</span>
         </h2>
         <p className="text-lg md:text-xl text-gray-400 mb-10 max-w-xl mx-auto">
-          A BSIT student passionate about crafting sleek digital experiences. Code meets design.
+          A BSIT student passionate about crafting digital experiences. Code meets design.
         </p>
         <div className="flex justify-center gap-4">
           <a
